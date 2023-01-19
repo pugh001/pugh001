@@ -113,9 +113,9 @@ Worked on in no particular order: BASIC, C, Powershell, Java, HTML, CSS, Angular
      width="40"
      height="40" />&nbsp;
 </div>
-- 🌱 I’m currently learning Java (again) and Python (a repo with a trading bot
-might appear if it works and makes money)
 </div>
+
+- 🌱 I’m currently learning Java (again) and Python (a repo with a trading bot might appear if it works and makes money)
 - 💞️ I’m looking to collaborate on anything that interests me!
 - 📫 How to reach me ... <a href="https://www.linkedin.com/in/pugh001/">
    <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -124,6 +124,7 @@ might appear if it works and makes money)
     width="50" />
   </a>
  probably a good start, or try <a href="www.twiter.com/_pugh001"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="20" width="50" /></a>
+
 - In the unlikely event you find something helpful you can <a href="https://www.buymeacoffee.com/pugh001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png"  alt="Buy Me A Coffee" height="20"  width="50"/></a> or just do it anyway as the Rand keeps crashing so need some extra income somewhere!
 - Coming soon: (As this is new) Will start adding some little projects...
 
