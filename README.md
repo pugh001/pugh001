@@ -117,15 +117,10 @@ Worked on in no particular order: BASIC, C, Powershell, Java, HTML, CSS, Angular
 
 - 🌱 I’m currently learning Java (again) and Python (a repo with a trading bot might appear if it works and makes money)
 - 💞️ I’m looking to collaborate on anything that interests me!
-- 📫 How to reach me ... <a href="https://www.linkedin.com/in/pugh001/">
-   <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn Badge"
-    height="20"
-    width="50" />
-  </a>
- probably a good start, or try <a href="www.twiter.com/_pugh001"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="20" width="50" /></a>
+- 📫 How to reach me ...  [![Linkedin Badge](https://img.shields.io/badge/-pugh001-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pugh001) probably a good start, or try 
+[![Twitter_Badge](https://img.shields.io/badge/-@__pugh001-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/_pugh001)
 
-- In the unlikely event you find something helpful you can <a href="https://www.buymeacoffee.com/pugh001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png"  alt="Buy Me A Coffee" height="20"  width="50"/></a> or just do it anyway as the Rand keeps crashing so need some extra income somewhere!
+- In the unlikely event you find something helpful you can [![Buymeacoffee_badge](https://img.shields.io/badge/-pugh001-FFDD00?style=flat&logo=Buymeacoffee&logoColor=orange)](https://www.buymeacoffee.com/pugh001) or just do it anyway as the Rand keeps crashing so need some extra income somewhere!
 - Coming soon: (As this is new) Will start adding some little projects...
 
 <!---
