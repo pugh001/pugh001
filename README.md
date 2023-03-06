@@ -34,7 +34,7 @@ Worked on in no particular order: BASIC, C, C#, Powershell, Java, HTML, CSS, Ang
      alt="Bash"
      width="40"
      height="40" />
-     <img sec="https://github.com/devicons/devicon/tree/master/icons/csharp/csharp-original.svg"
+     <img src="https://github.com/devicons/devicon/tree/master/icons/csharp/csharp-original.svg"
      title="C#"
      alt="C#"
      width="40"
