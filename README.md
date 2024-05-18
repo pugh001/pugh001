@@ -17,7 +17,7 @@ I’m @pugh001 here but in the real world known as Jason Pugh  <img src="https:/
 
 Most languages follow enough of a similar pattern so always willing to give it a go.
 
-Worked on in no particular order: BASIC, C, C#, Powershell, Java, HTML, CSS, AngularJS, Dataflex, DBase, Clipper, SQL, Informix 4GL, J2EE, Ruby, Javascript, Python and probably many more...
+Worked on in no particular order: BASIC, C, C#, Powershell, Java, HTML, CSS, AngularJS, Dataflex, DBase, Clipper, SQL, Informix 4GL, J2EE, Ruby, Javascript, Python and probably many more... latest looking at Zig, which I guess it back to the start...
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS"
      alt="AWS"
      width="40"
@@ -115,6 +115,12 @@ Worked on in no particular order: BASIC, C, C#, Powershell, Java, HTML, CSS, Ang
      src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"
      title="Spring"
      alt="Spring"
+     width="40"
+     height="40" />&nbsp;
+     <img
+     src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original-wordmark.svg"
+     title="Zig"
+     alt="Zig"
      width="40"
      height="40" />&nbsp;
 </div>
